@@ -99,7 +99,7 @@
                             <div class="questrial caption indigo--text font-weight-bold ml-1 mr-3">Like</div>
                             <div class="questrial caption indigo--text font-weight-bold mr-3">Reply</div>
                             <div class="questrial caption indigo--text ml-1 font-weight-bold mr-3">Translate</div>
-                            <div class="questrial grey--text caption font-weight-bold ml-3">5mins</div>
+                            <div class="questrial grey--text caption font-weight-bold ml-3">15mins</div>
                         </v-layout>
                         
                     </v-flex>
@@ -113,7 +113,7 @@
                     <img :src="avatar2" alt="John">
                 </v-list-item-avatar>
                 <v-list-item-content>
-                    <div class="questrial font-weight-bold" style="font-size: 14px">Eklata Goswami</div>
+                    <div class="questrial font-weight-bold" style="font-size: 14px">Eklata Goswami ji</div>
                     <v-list-item-subtitle class="questrial body1 font-weight-medium grey--text text--darken-1 my-2">Thanks for sharing this. It makes my day.</v-list-item-subtitle>
                     <v-layout>
                     <v-flex xs4>
